@@ -2,7 +2,7 @@
 
 <div align="center">
         
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P+&pause=1000&color=723FF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+React+Native;Java+%7C+Spring+Boot;Postgresql+%7C+MySql)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P+&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+React+Native;Java+%7C+Spring+Boot;Postgresql+%7C+MySql)](https://git.io/typing-svg)
 
 </div>
 Me chamo Kaique Abranches de Paula, tenho 19 anos e sou natural do estado do Rio de Janeiro, Petrópolis. 
