@@ -1,6 +1,10 @@
 # 🧑‍💻​ Kaique Abranches
-**` FullStack Developer `**
 
+<div align="center">
+        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P+&pause=1000&color=723FF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+React+Native;Java+%7C+Spring+Boot;Postgresql+%7C+MySql)](https://git.io/typing-svg)
+
+</div>
 Me chamo Kaique Abranches de Paula, tenho 19 anos e sou natural do estado do Rio de Janeiro, Petrópolis. 
 Atualmente, curso TI pela Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ) e sou 
 formado como desenvolvedor FullStack pelo polo de tecnologia da região serrana SERRATEC. Sou um jovem 
@@ -174,3 +178,5 @@ apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
   />
 
 </p>
+
+![snake animation](https://github.com/Abranches4434/Abranches4434/blob/output/github-contribution-grid-snake2.svg)
