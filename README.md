@@ -10,6 +10,9 @@ Atualmente, curso TI pela Faculdade de Educação Tecnológica do Estado do Rio 
 formado como desenvolvedor FullStack pelo polo de tecnologia da região serrana SERRATEC. Sou um jovem 
 apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
 
+<br>
+<br>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqueabranches/)
