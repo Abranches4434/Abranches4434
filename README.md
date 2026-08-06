@@ -122,6 +122,8 @@ apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
     width="30px"
     style="padding-right: 10px;" 
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <br>
+    <br>
 <img
     align="left" 
     alt="MySql"
