@@ -179,4 +179,4 @@ apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
 
 </p>
 
-![snake animation](https://github.com/Abranches4434/Abranches4434/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
