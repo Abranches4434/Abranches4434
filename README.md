@@ -182,4 +182,4 @@ apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
 
 </p>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abranches4434/Abranches4434/output/snake.svg" alt="Snake animation" />
