@@ -5,11 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P+&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+React+Native;Java+%7C+Spring+Boot;Postgresql+%7C+MySql)](https://git.io/typing-svg)
 
 </div>
-Me chamo Kaique Abranches de Paula, tenho 19 anos e sou natural do estado do Rio de Janeiro, Petrópolis. 
-Atualmente, curso TI pela Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ) e sou 
-formado como desenvolvedor FullStack pelo polo de tecnologia da região serrana SERRATEC. Sou um jovem 
-apaixonado pela área e busco a cada dia experiências reais dentro do mercado.
 
+## 🧑​ About me
+
+Olá! Me chamo Kaique Abranches de Paula, tenho 19 anos e sou natural de Petrópolis, Rio de Janeiro.
+
+Atualmente curso Tecnologia da Informação na FAETERJ (Faculdade de Educação Tecnológica do Estado do Rio de Janeiro) e sou formado como Desenvolvedor Full Stack pelo Serratec, polo de tecnologia da Região Serrana.
+
+Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente aprender novas ferramentas, aprimorar minhas habilidades e adquirir experiências reais no mercado. Tenho interesse principalmente em desenvolvimento Full Stack, Java/Spring Boot, React e construção de aplicações que resolvam problemas do mundo real.
 <br>
 <br>
 
